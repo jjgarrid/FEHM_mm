@@ -4,3 +4,6 @@ debug/*
 build/*
 *.pyc
 *DS_Store
+*.out
+*.err
+*_output
